@@ -1,8 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 //                         COMPUTER METHODS 3 PRACTICAL TEST 1 (MOCK)
-// Name:
-// Student No:
-// Date: 
+// Name: Ruvania Naicker
+// Student No: 214521716
+// Date: 26/03/2016
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 #include <iostream>
 #include <string>
@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 
-	// 1.1 on branch "master", uncomment the following line and make a commi
+	// 1.1 on branch "master", uncomment the following line and make a commit
 	cout << "This is the first line of code" << endl;
 
 	// 1.2 create and switch to branch "hello", uncomment (and complete) the following line and make a commit  
